@@ -1,0 +1,18 @@
+
+
+rows = 1
+leters = 298
+words = 49
+vowels = 81
+consonants = 161
+digits = 0
+>>>>>>>>Task 3<<<<<<<<<
+
+rows = 1
+leters = 298
+words = 49
+vowels = 81
+consonants = 161
+digits = 0
+>>>>>>>>Task 3<<<<<<<<<
+
